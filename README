@@ -1,6 +1,9 @@
 
 
 
+
+
+
 To change to a different branch in Git, you can use the command `git checkout` followed by the name of the branch you want to switch to. For example:
 
 ```
